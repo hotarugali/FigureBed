@@ -7,6 +7,6 @@
 - 插图（illustration）
 
 ### 访问
-- 封面图（cover）：`https://xiaoxiaoluomu.gitee.io/figurebed/cover`
-- 壁纸图（wallpaper）：`https://xiaoxiaoluomu.gitee.io/figurebed/wallpaper`
-- 插图（illustration）：`https://xiaoxiaoluomu.gitee.io/figurebed/illustration`
+- 封面图（cover）：`https://hotarugali.github.io/figurebed/cover`
+- 壁纸图（wallpaper）：`https://hotarugali.github.io/figurebed/wallpaper`
+- 插图（illustration）：`https://hotarugali.github.io/figurebed/illustration`
